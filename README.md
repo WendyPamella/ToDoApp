@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Creating a react web app( My To do App). Using React Hooks. This project illustrates on the implementation of the use of CRUD concepts( Create, Read, Update, Delete).
+Applying the concept of useState on React to enabe the functionality of the app.
+One can add items to the to do list, cancel items upon clicking the comlete button and delete an item from the list by clicking on the X button.
